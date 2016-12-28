@@ -1,0 +1,17 @@
+{
+  "version": "1.0.1-*",
+
+  "dependencies": {
+    "Atomosphere.Contracts": "1.0.1-*",
+    "Microsoft.ProjectOxford.Emotion": "1.0.331.1",
+    "NEST": "5.0.0",
+    "NETStandard.Library": "1.6.0",
+    "WindowsAzure.Storage": "8.0.0"
+  },
+
+  "frameworks": {
+    "net461": {
+
+    }
+  }
+}
